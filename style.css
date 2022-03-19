@@ -77,6 +77,18 @@
 
          }
 
+        .responsive1 {
+           width: 15%;
+           height: auto;
+           float: left; 
+          }
+
+        .responsive2 {
+           width: 600px;
+           height: auto;
+           float: right;
+          }
+
            
             .sidebar {
              height: 2000px;
