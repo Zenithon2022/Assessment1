@@ -93,6 +93,11 @@
            float: right;
           }
 
+         .image {
+           width:300px;
+           height:600px;
+          }
+
            
             .sidebar {
               height: 200px;
