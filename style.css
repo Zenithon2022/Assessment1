@@ -77,37 +77,6 @@
 
          }
 
-
-
-         #responsive1 {
-            width: 15%;
-           height: auto;
-           float: left; 
-            }
-
-         #responsive2 {
-             width: 600px;
-             height: auto;
-             float: right;
-                     }
-
-         #responsive3 {
-              height:250px;
-              max-width:250px;
-                }
-
-         #responsive4 {
-             height:40px;
-             max-width:100px;
-           
-                }
-
-         #responsive5 {
-              height:380px;
-              max-width:100px;
-              
-                }
-
            
             .sidebar {
              height: 2000px;
