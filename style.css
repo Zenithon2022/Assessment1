@@ -97,9 +97,9 @@
            padding-left:50px;
          }
 
-         #Image2 {
-           margin-right:100px;
-
+         #Image2{
+             height:auto;
+             max-width:980px;
          }
 
             .sidebar {
