@@ -91,33 +91,24 @@
              float: right;
                      }
 
-         #Image1 {
-           margin-right: 100px;
-           width: 350px;
-           padding-left:50px;
+         .responsive3 {
+           height:570px;
+           max-width:500px;
          }
 
-         #Image2{
-             height:auto;
-             max-width:980px;
+         .responsive4 {
+             height:400px;
+             max-width:1000px;
            
            }
 
-          #Image3{
-           height:570px;
-           max-width:500px;
-           }
+         .responsive5 {
+              height:380px;
+              max-width:1000px;
+              
+            }
 
-           #Image4{
-             height:400px;
-             max-width:1000px;
-             }
-
-             #Image5{
-               height:380px;
-               max-width:1000px;
-               }
-
+           
             .sidebar {
              height: 2000px;
              width: 150px;
