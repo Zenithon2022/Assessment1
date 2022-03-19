@@ -16,8 +16,7 @@
             font-weight: bold;
             margin-bottom: 6px;
             width:400px;
-           text-align: center;
-
+           
          }
 
          h2 {
@@ -26,7 +25,6 @@
             font-weight: bold;
             margin-bottom: 6px;
             width:400px;
-           text-align: center;
          }
 
          h3 {
@@ -35,7 +33,7 @@
             font-weight: bold;
             margin-bottom: 6px;
             width:400px;
-           text-align: center;
+           
          }
 
          h4 {
@@ -44,7 +42,7 @@
             font-weight: bold;
             margin-bottom: 6px;
             width:400px;
-           text-align: center;
+           
          }
 
         h5 {
@@ -53,7 +51,7 @@
             font-weight: bold;
             margin-bottom: 6px;
             width:400px;
-          text-align: center;
+          
          }
 
         h6 {
@@ -62,7 +60,7 @@
             font-weight: bold;
             margin-bottom: 6px;
             width:400px;
-          text-align: center;
+          
          }
 
 
