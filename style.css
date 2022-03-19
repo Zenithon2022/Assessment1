@@ -100,7 +100,23 @@
          #Image2{
              height:auto;
              max-width:980px;
-         }
+           
+           }
+
+          #Image3{
+           height:570px;
+           max-width:500px;
+           }
+
+           #Image4{
+             height:400px;
+             max-width:1000px;
+             }
+
+             #Image5{
+               height:380px;
+               max-width:1000px;
+               }
 
             .sidebar {
              height: 2000px;
