@@ -21,16 +21,42 @@
 
          h2 {
            color: black;
-           text-align: center;
-
+            font-size: 30px;
+            font-weight: bold;
+            margin-bottom: 6px;
+            width:400px;
          }
 
          h3 {
-           color:black;
+           color: black;
+            font-size: 30px;
+            font-weight: bold;
+            margin-bottom: 6px;
+            width:400px;
          }
 
          h4 {
-           color:black;
+           color: black;
+            font-size: 30px;
+            font-weight: bold;
+            margin-bottom: 6px;
+            width:400px;
+         }
+
+        h5 {
+           color: black;
+            font-size: 30px;
+            font-weight: bold;
+            margin-bottom: 6px;
+            width:400px;
+         }
+
+        h6 {
+           color: black;
+            font-size: 30px;
+            font-weight: bold;
+            margin-bottom: 6px;
+            width:400px;
          }
 
 
